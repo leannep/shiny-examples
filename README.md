@@ -8,7 +8,8 @@ Demonstrates creating a custom reactive Shiny application to generate data, plot
  
 Launch from the shell: 
 
-> R -e "shiny::runGitHub('shiny-examples', 'leannep', subdir='fourier')"
+>  >R -e "shiny::runGitHub('shiny-examples', 'leannep', subdir='fourier')"
+
 Listening on http://127.0.0.1:1234
 
 Then open the URL in a browser
