@@ -6,6 +6,9 @@ This repository contains examples of simple Shiny applications
 
 Demonstrates creating a custom reactive Shiny application to generate data, plot, display and down load it 
  
-Run this example by calling:
+Launch from the shell: 
 
-`shiny::runGitHub("shiny-examples", "leannep", subdir="fourier")`
+> R -e "shiny::runGitHub('shiny-examples', 'leannep', subdir='fourier')"
+Listening on http://127.0.0.1:1234
+
+Then open the URL in a browser
